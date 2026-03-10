@@ -1,3 +1,9 @@
+## 1.0.0
+
+### Bump dependencies and use freezed
+ - Bump all dependencies
+ - Use freezed to auto generate json parsing and helper functions
+
 ## 1.0.0-dev.5
 
 ### Add parameters for limit and offset
